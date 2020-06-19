@@ -119,7 +119,7 @@ Como dica, é possível abrir uma tela "Preview" no VS Code e editar o arquivo R
 Depois de aberto, basta realizar o "split", com Ctrl+], para editar e visualizar suas alterações em tempo real!
 
 <p align="center" >
-  <img height="200" src="./assets/reactjs-readme-prev.png">
+  <img height="300" width="700" src="./assets/reactjs-readme-prev.png">
 </p>
 <br>
 
