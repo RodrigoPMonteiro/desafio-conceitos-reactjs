@@ -1,8 +1,6 @@
 # Desafio: Conceitos do ReactJS
 Repositório criado para desenvolvimento do desafio: Conceitos do ReactJs
 
-
-
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
@@ -69,6 +67,31 @@ Após executar o <I>yarn test</I> será exibida a mensagem abaixo:
   <img  src="./assets/reactjs-approved.png">
 </p>
 
+### Dificuldades encontradas no desafio:
+
+A maior dificuldade encontrada neste desafio foi que o jest apontava erro, mesmo quando os métodos get e post já estavam corretos. O validador só marcou como "sucesso" quando os 3 métodos( get, post e delete) estavam ok.
+Tal cenário gerou dúvidas sobre em qual parte do código apresentava erro.
+
+Como dica, ao observar o "package.json" observei que poderia executar o front-end com o comando:
+
+<li>
+  <i>yarn start</i>
+</li>
+
+Ao executar a primeira vez, observei que o botão "Adicionar" não obtinha resposta pois meu server em nodejs não estava executando.<br> 
+Naveguei até o diretório e executei o comando:
+
+<li>
+  <i>yarn dev</i>
+</li>
+
+Pronto! Consegui testar os métodos get, post e delete separadamente, facilitando a localização dos erros.
+
+<p align="center" height="300" width="300">
+  <img  src="./assets/reactjs-front-exec.png">
+  Front-end em execução e interagindo com o Back-end!
+</p>
+
 ### Específicação dos testes
 
 Em cada teste há uma breve descrição do que a aplicação deve cumprir para que o teste seja aprovado.
@@ -81,9 +104,17 @@ Para esse desafio os testes são os seguintes:
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
 
-## :calendar: Entrega
+### Entrega
 
 Esse desafio será entregue a partir da plataforma Skylab, através do envio do link do repositório. Após concluir o desafio, é primordial a criação de um post no Linkedin e a postagem do código do Github visando demonstrar os conhecimentos e esforços para evolução na sua carreira e/ou para oportunidades futuras.
+
+Após envio, o componente do Desafio será atualizado com a nota e com a informação de aprovação.
+
+<p align="center">
+  <img  src="./assets/reactjs-challenge.png">
+  Front-end em execução e interagindo com o Back-end!
+</p>
+
 
 ## :memo: Licença
 

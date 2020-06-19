@@ -26,7 +26,7 @@ function App() {
   async function handleAddRepository() {
     // Armazena na variável "response" o restorno do método post para nossa rota "repositories" da api
     const postResponse = await api.post('repositories', { // id não informa????
-      title: `Challenge ${Date.now()}` ,
+      title: `Challenge nº ${Date.now()}` ,
       url: 'https://github.com/RodrigoPMonteiro/desafio-conceito-reactjs',
       techs: ['React', 'ReactJs'],
     });

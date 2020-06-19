@@ -6,6 +6,8 @@
 
 body {
   font-size: 14px;
+  background: #070116;
+  color: #fff;
 }
 
 div {
@@ -31,6 +33,7 @@ button {
   margin-top: 15px;
   font-weight: bold;
   font-size: 14px;
+  
 }
 
 div li button {
