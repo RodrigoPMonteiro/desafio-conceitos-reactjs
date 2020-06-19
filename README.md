@@ -113,7 +113,15 @@ Após envio, o componente do Desafio será atualizado com a nota e com a informa
 <p align="center" >
   <img height="400"  width="500" src="./assets/reactjs-challenge.png">
 </p>
+<br>
 
+Como dica, é possível abrir uma tela "Preview" no VS Code e editar o arquivo Readme.md diretamente na ferramenta. O preview pode ser acessado com o comando Ctrl+Shif+V.
+Depois de aberto, basta realizar o "split", com Ctrl+], para editar e visualizar suas alterações em tempo real!
+
+<p align="center" >
+  <img height="200" src="./assets/reactjs-readme-prev.png">
+</p>
+<br>
 
 ## :memo: Licença
 
