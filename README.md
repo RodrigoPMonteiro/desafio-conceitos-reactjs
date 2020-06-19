@@ -1,4 +1,4 @@
-# desafio-conceito-reactjs
+# Desafio: Conceitos do ReactJS
 Repositório criado para desenvolvimento do desafio: Conceitos do ReactJs
 
 
