@@ -76,19 +76,19 @@ Como dica, ao observar o "package.json" observei que poderia executar o front-en
 
 <li>
   <i>yarn start</i>
-</li>
+</li><br>
 
 Ao executar a primeira vez, observei que o botão "Adicionar" não obtinha resposta pois meu server em nodejs não estava executando.<br> 
 Naveguei até o diretório e executei o comando:
 
 <li>
   <i>yarn dev</i>
-</li>
+</li><br>
 
 Pronto! Consegui testar os métodos get, post e delete separadamente, facilitando a localização dos erros.
 
-<p align="center" height="300" width="300">
-  <img  src="./assets/reactjs-front-exec.png">
+<p align="center" >
+  <img height="300" width="400" src="./assets/reactjs-front-exec.png">
   <br>Front-end em execução e interagindo com o Back-end!
 </p>
 
@@ -108,10 +108,10 @@ Para esse desafio os testes são os seguintes:
 
 Esse desafio será entregue a partir da plataforma Skylab, através do envio do link do repositório. Após concluir o desafio, é primordial a criação de um post no Linkedin e a postagem do código do Github visando demonstrar os conhecimentos e esforços para evolução na sua carreira e/ou para oportunidades futuras.
 
-Após envio, o componente do Desafio será atualizado com a nota e com a informação de aprovação.
+Após envio, o componente do Desafio será atualizado com a nota e com a informação de aprovação, conforme abaixo:
 
-<p align="center">
-  <img  src="./assets/reactjs-challenge.png">
+<p align="center" >
+  <img height="400"  width="500" src="./assets/reactjs-challenge.png">
 </p>
 
 
