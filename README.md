@@ -1,5 +1,3 @@
-<h1 align="center">********** EM CONSTRUÇÃO **********</h1>
-
 # desafio-conceito-reactjs
 Repositório criado para desenvolvimento do desafio: Conceitos do ReactJs
 
