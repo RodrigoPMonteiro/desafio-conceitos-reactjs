@@ -89,7 +89,7 @@ Pronto! Consegui testar os métodos get, post e delete separadamente, facilitand
 
 <p align="center" height="300" width="300">
   <img  src="./assets/reactjs-front-exec.png">
-  Front-end em execução e interagindo com o Back-end!
+  <br>Front-end em execução e interagindo com o Back-end!
 </p>
 
 ### Específicação dos testes
@@ -112,7 +112,6 @@ Após envio, o componente do Desafio será atualizado com a nota e com a informa
 
 <p align="center">
   <img  src="./assets/reactjs-challenge.png">
-  Front-end em execução e interagindo com o Back-end!
 </p>
 
 
